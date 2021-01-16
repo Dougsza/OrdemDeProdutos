@@ -6,15 +6,17 @@ namespace OrdemProdutos.Entities {
     class OrderItem {
         public int Quantity { get; set; }
         public double Price { get; set; }
+        Product Product { get; set; }
 
-        OrderItem() {
+        public OrderItem() {
 
         }
-        OrderItem(int quantity, double price) {
+        public OrderItem(int quantity, double price, Product product) {
             Quantity = quantity;
             Price = price;
+            Product = product;
         }
-        void subTotal(double price) {
+       public void subTotal(double price) {
             Price = price * Quantity;
         }
 

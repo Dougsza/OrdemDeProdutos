@@ -1,0 +1,13 @@
+C:\Users\dougl\source\repos\OrdemDeProdutos\OrdemProdutos\OrdemProdutos\bin\Debug\netcoreapp3.1\OrdemProdutos.exe
+C:\Users\dougl\source\repos\OrdemDeProdutos\OrdemProdutos\OrdemProdutos\bin\Debug\netcoreapp3.1\OrdemProdutos.deps.json
+C:\Users\dougl\source\repos\OrdemDeProdutos\OrdemProdutos\OrdemProdutos\bin\Debug\netcoreapp3.1\OrdemProdutos.runtimeconfig.json
+C:\Users\dougl\source\repos\OrdemDeProdutos\OrdemProdutos\OrdemProdutos\bin\Debug\netcoreapp3.1\OrdemProdutos.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\OrdemDeProdutos\OrdemProdutos\OrdemProdutos\bin\Debug\netcoreapp3.1\OrdemProdutos.dll
+C:\Users\dougl\source\repos\OrdemDeProdutos\OrdemProdutos\OrdemProdutos\bin\Debug\netcoreapp3.1\OrdemProdutos.pdb
+C:\Users\dougl\source\repos\OrdemDeProdutos\OrdemProdutos\OrdemProdutos\obj\Debug\netcoreapp3.1\OrdemProdutos.csprojAssemblyReference.cache
+C:\Users\dougl\source\repos\OrdemDeProdutos\OrdemProdutos\OrdemProdutos\obj\Debug\netcoreapp3.1\OrdemProdutos.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\OrdemDeProdutos\OrdemProdutos\OrdemProdutos\obj\Debug\netcoreapp3.1\OrdemProdutos.AssemblyInfo.cs
+C:\Users\dougl\source\repos\OrdemDeProdutos\OrdemProdutos\OrdemProdutos\obj\Debug\netcoreapp3.1\OrdemProdutos.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\OrdemDeProdutos\OrdemProdutos\OrdemProdutos\obj\Debug\netcoreapp3.1\OrdemProdutos.dll
+C:\Users\dougl\source\repos\OrdemDeProdutos\OrdemProdutos\OrdemProdutos\obj\Debug\netcoreapp3.1\OrdemProdutos.pdb
+C:\Users\dougl\source\repos\OrdemDeProdutos\OrdemProdutos\OrdemProdutos\obj\Debug\netcoreapp3.1\OrdemProdutos.genruntimeconfig.cache

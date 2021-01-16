@@ -15,6 +15,16 @@ namespace OrdemProdutos.Entities {
             Name = name;
             Email = email;
             BirthDate = birthDate;
+
+        }
+        public override string ToString() {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(Name);
+            sb.AppendLine(Email);
+            sb.Append("Sua data de nascimento: ")
+            sb.AppendLine(BirthDate.ToString());
+
+            return sb.ToString();
         }
     }
 }
